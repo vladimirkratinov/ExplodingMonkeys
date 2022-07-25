@@ -8,7 +8,7 @@ SpriteKit game for iPad
 * weak reference to the view controller from the game scene
 * Texture Atlas - is a set of pictures that are combined into a single image. They might be stored in their original orientation, or they might be rotated. Alongside those images, the atlas also contains positions and sizes, which means to render one of those pictures 
 * let impulse = CGVector(dx: cos(radians) * speed, dy: sin(radians) * speed)
-* physicsBody?.applyImpulse, 
+* physicsBody?.applyImpulse
 * Transition between Scenes: SKTransition.crossFade
 
 # Screenshots: 📷
